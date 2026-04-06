@@ -13,4 +13,5 @@ dependencies = [
     "jsonschema",
     "rfc3339-validator",
     "SQLAlchemy",
+    "gunicorn",
 ]
